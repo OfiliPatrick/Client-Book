@@ -1,0 +1,31 @@
+
+footer {
+  
+    color: black;
+    text-align: center;
+    font-family: Georgia, Times, serif;
+    
+}
+
+#button {
+    color: white;
+}
+
+#container {
+  margin: 0px 80px 0px;
+    
+}
+
+.form-group {
+    display: inline-block;
+}
+
+
+#alert1 {
+    display:inline-block;
+}
+
+
+#alert2 {
+    display:inline-block;
+}
